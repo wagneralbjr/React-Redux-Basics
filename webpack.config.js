@@ -14,7 +14,6 @@ var config = { entry: SRC_DIR + "/app/index.js",
 				query: { presets: ["react", "es2015", "stage-2"] }
 		}
 		}] 	
-	},
-	mode: 'development'
+	}
 };
 module.exports = config;
